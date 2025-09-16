@@ -66,7 +66,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: 'your-messaging-sender-id',
     projectId: 'your-project-id',
     storageBucket: 'your-project-id.appspot.com',
-    iosBundleId: 'com.anonymousmatch.app',
+    iosBundleId: 'com.annyeong.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -75,6 +75,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: 'your-messaging-sender-id',
     projectId: 'your-project-id',
     storageBucket: 'your-project-id.appspot.com',
-    iosBundleId: 'com.anonymousmatch.app',
+    iosBundleId: 'com.annyeong.app',
   );
 }

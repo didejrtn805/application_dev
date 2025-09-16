@@ -52,7 +52,7 @@ class SplashScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('AnonymousMatch\n로딩 중...', textAlign: TextAlign.center),
+        child: Text('Annyeong\n로딩 중...', textAlign: TextAlign.center),
       ),
     );
   }
@@ -78,7 +78,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('AnonymousMatch')),
+      appBar: AppBar(title: const Text('Annyeong')),
       body: const Center(
         child: Text('홈 화면'),
       ),

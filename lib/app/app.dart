@@ -9,7 +9,7 @@ class AnonymousMatchApp extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     return MaterialApp.router(
-      title: 'AnonymousMatch',
+      title: 'Annyeong',
       theme: ThemeData(
         primarySwatch: Colors.pink,
         useMaterial3: true,
